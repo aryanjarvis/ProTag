@@ -1,0 +1,11 @@
+.create-form {
+  max-width: 600px;
+}
+.toast-message {
+  background: darkblue;
+  color: #fff;
+  font-size: 20px;
+  width: 20vw;
+  padding: 30px 20px;
+  font-family: 'Poppins';
+}
